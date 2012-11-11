@@ -1,0 +1,17 @@
+.settings
+target
+plugins/*
+plugins/**/*
+!plugins/README.txt
+dropins/*
+dropins/**/*
+!dropins/README.txt
+libs/*
+libs/**/*
+!libs/README.txt
+configuration/*
+configuration/**/*
+!configuration/org.eclipse.equinox.console.authentication.config
+!configuration/debug.options
+!configuration/org.eclipse.osgi.options
+

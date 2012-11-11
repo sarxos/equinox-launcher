@@ -1,0 +1,1 @@
+This is directory for Equinox/p2 dropins.
